@@ -1,3 +1,5 @@
 # 500-44428
 My first repository on Github
-Chris Murphy
+Name: Chris Murphy.
+Day 3 of DevOps and my first attempt at creating a code repository on Github.
+If in doubt open project again and check changes
